@@ -6,5 +6,3 @@ Türkçe:<br>Python/Pygame ile yapılmış basit bir çiftlik oyunu.
 <br>
 <br>
 <br>
-
-https://github.com/ALIkuzgun/farm-game/assets/fragman/9544ce62-ca9a-4e2d-b47d-c70bb20d2d59
