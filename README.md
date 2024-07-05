@@ -6,4 +6,7 @@ Türkçe:<br>Python/Pygame ile yapılmış basit bir çiftlik oyunu.
 <br>
 <br>
 <br>
-Uploading Ekran Kaydı 2024-07-05 201211.mp4…
+
+
+Uploading fragman.mp4…
+
